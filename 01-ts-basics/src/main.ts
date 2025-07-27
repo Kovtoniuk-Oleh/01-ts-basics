@@ -1,7 +1,7 @@
-import "./05-functions";
-import "./05-functions";
-import "./05-functions";
-import "./05-functions";
-import "./05-functions";
-import "./05-functions";
-import "./05-functions";
+import './task-5';
+import './task-5';
+import './task-5';
+import './task-5';
+import './task-5';
+import './task-5';
+import './task-5';
